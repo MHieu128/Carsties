@@ -23,6 +23,10 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
 
 ## Logs
 *.log

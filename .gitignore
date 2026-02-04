@@ -1,0 +1,57 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.rsuser
+*.sln.iml
+
+## Rider
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+
+## OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+## Logs
+*.log
+
+## Test results
+TestResults/
+
+## .NET coverage
+*.coverage
+*.coveragexml
+
+## NuGet
+*.nupkg
+# The packages folder can be ignored because of PackageReference
+# Uncomment if you use packages.config
+#packages/
+
+## Azure
+.azure/
+
+## Dotnet tool restore
+.dotnet/
+
+## Local configuration
+appsettings.Development.json
+
+## Secrets
+secrets.json
+
+## Others
+*.pdb
+*.mdb
